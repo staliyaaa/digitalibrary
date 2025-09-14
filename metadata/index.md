@@ -5,5 +5,12 @@ Berikut ini adalah Koleksi yang dimiliki:
 1. [Matahari](ebook/Matahari.pdf)-Tere Liye
 2. [Bumi Cinta](ebook/Bumi Cinta.pdf)-Habiburrahman El Shirazy
 3. [Di Atas Sajadah Cinta](ebook/Di Atas Sajadah Cinta.pdf)-Habiburrahman El Shirazy
+4. [Yang Fana Adalah Waktu](ebook/Di Atas Sajadah Cinta.pdf)-Sapardi Djoko Damono
+5. [Dunia Sophie](ebook/Dunia Sophie.pdf)-Jostein Gaarder
+6. [Tenggelamnya Kapal Van Der Wijck](ebook/Tenggelamnya Kapal Van Der Wijck.pdf)-Hamka
+7. [Laskar Pelangi](ebook/Laskar Pelangi.pdf)-Andrea Hirata
+8. [Negeri 5 Menara](ebook/Negeri 5 Menara.pdf)-A.Fuadi
+9. [Syahadat Cinta](ebook/Syahadat Cinta.pdf)-Taufiqurrahman Al-Azizy
+10. [Pada Senja Yang Membawamu Pergi](ebook/Pada Senja Yang Membawamu Pergi.pdf)-Boy Candra
 ---
 *Powered by GitHub Pages*
