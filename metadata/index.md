@@ -14,5 +14,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. [Yang Fana Adalah Waktu](ebook/Di Atas Sajadah Cinta.pdf)-Sapardi Djoko Damono
 12. [Kuliah Umum](ebook/Kuliah Umum.pdf)-Sinta Taliya
 ---
-https://staliyaaa.github.io/digitalibrary/webti/halaman1.html
+
+[halaman 1](webti/halaman1.html)
 *Powered by GitHub Pages*
