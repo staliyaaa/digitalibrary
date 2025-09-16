@@ -15,5 +15,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 12. [Kuliah Umum](ebook/Kuliah Umum.pdf)-Sinta Taliya
 ---
 [halaman1](webti/halaman1.html)
+<a href="webti/halaman1.html">Halaman 1</a>
 
 *Powered by GitHub Pages*
