@@ -15,6 +15,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Tenggelamnya Kapal Van Der Wijck](ebook/Tenggelamnya Kapal Van Der Wijck.pdf)-Hamka
 10. [Yang Fana Adalah Waktu](ebook/Di Atas Sajadah Cinta.pdf)-Sapardi Djoko Damono
 11. [Kuliah Umum](ebook/Kuliah Umum.pdf)-Sinta Taliya
+12. [Kuliah Umum](ebook/Kuliah Umum.pdf)-Sinta Taliya
 
 ---
 
