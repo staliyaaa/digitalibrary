@@ -7,16 +7,14 @@ Berikut ini adalah Koleksi yang dimiliki:
 1. [Bumi Cinta](ebook/Bumi Cinta.pdf)-Habiburrahman El Shirazy (2012)
 2. [Cantik Itu Luka](ebook/Cantik Itu Luka.pdf)-Eka Kurniawan (2015)
 3. [Di Atas Sajadah Cinta](ebook/Di Atas Sajadah Cinta.pdf)-Habiburrahman El Shirazy (2006)
-4. [Dunia Sophie](ebook/Dunia Sophie.pdf)-Jostein Gaarder (2014)
+4. [Laut Bercerita](ebook/Laut Bercerita.pdf)-Leila S.Chudori (2017)
 5. [Laskar Pelangi](ebook/Laskar Pelangi.pdf)-Andrea Hirata (2005)
 6. [Matahari](ebook/Matahari.pdf)-Tere Liye (2016)
 7. [Pada Senja Yang Membawamu Pergi](ebook/Pada Senja Yang Membawamu Pergi.pdf)-Boy Candra (2016)
 8. [Syahadat Cinta](ebook/Syahadat Cinta.pdf)-Taufiqurrahman Al-Azizy (2006)
 9. [Tenggelamnya Kapal Van Der Wijck](ebook/Tenggelamnya Kapal Van Der Wijck.pdf)-Hamka (1976)
-10. [Yang Fana Adalah Waktu](ebook/Di Atas Sajadah Cinta.pdf)-Sapardi Djoko Damono (2018)
-11. [Kuliah Umum](ebook/Kuliah Umum.pdf)-Sinta Taliya (2025)
-12. [Tugas Rangkuman Materi Perkuliahan](
-ebook/Tugas Rangkuman Materi Perkuliahan.pdf)-Sinta Taliya (2026)
+
+
 ---
 
 [Halaman 1](webti/halaman1.html), [Halaman 2](webti/halaman2.html), [Halaman 3](webti/halaman3.html), [Halaman 4](webti/halaman4.html), [Halaman 5](webti/halaman5.html), [Halaman 6](webti/halaman6.html), [Halaman 7](webti/halaman7.html)
