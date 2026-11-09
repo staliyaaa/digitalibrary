@@ -4,16 +4,17 @@ Selamat Datang di Perpustakaan Digital
 
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [Bumi Cinta](ebook/Bumi Cinta.pdf)-Habiburrahman El Shirazy (2012)
-2. [Cantik Itu Luka](ebook/Cantik Itu Luka.pdf)-Eka Kurniawan (2015)
-3. [Di Atas Sajadah Cinta](ebook/Di Atas Sajadah Cinta.pdf)-Habiburrahman El Shirazy (2006)
-4. [Laut Bercerita](ebook/Laut Bercerita.pdf)-Leila S.Chudori (2017)
+1. [Ayah](ebook/Ayah.pdf)-Andrea Hirata (2015)
+2. [Bumi Cinta](ebook/Bumi Cinta.pdf)-Habiburrahman El Shirazy (2012)
+3. [Cantik Itu Luka](ebook/Cantik Itu Luka.pdf)-Eka Kurniawan (2015)
+4. [Di Atas Sajadah Cinta](ebook/Di Atas Sajadah Cinta.pdf)-Habiburrahman El Shirazy (2006)
 5. [Laskar Pelangi](ebook/Laskar Pelangi.pdf)-Andrea Hirata (2005)
 6. [Matahari](ebook/Matahari.pdf)-Tere Liye (2016)
 7. [Pada Senja Yang Membawamu Pergi](ebook/Pada Senja Yang Membawamu Pergi.pdf)-Boy Candra (2016)
 8. [Syahadat Cinta](ebook/Syahadat Cinta.pdf)-Taufiqurrahman Al-Azizy (2006)
 9. [Tenggelamnya Kapal Van Der Wijck](ebook/Tenggelamnya Kapal Van Der Wijck.pdf)-Hamka (1976)
-10. [Tugas Rangkuman Materi Perkuliahan](ebook/Tugas Rangkuman Materi Perkuliahan.pdf)-Sinta Taliya (2026)
+10. [Marmut Merah Jambu](ebook/Marmut Merah Jambu.pdf)-Raditya Dika (2010)
+11. [Tugas Rangkuman Materi Perkuliahan](ebook/Tugas Rangkuman Materi Perkuliahan.pdf)-Sinta Taliya (2026)
 
 
 ---
